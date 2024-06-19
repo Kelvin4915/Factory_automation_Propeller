@@ -1,3 +1,5 @@
 # The Propeller Project
 
 The Propeller Project involves the design and implementation of an automated guided vehicle (AGV) that can follow a path in a factory to pick up widgets made by machines in lane A and drop them off for further processing at machine locations in lane B. The robot must follow all lane rules, avoid obstacles, and reach specified locations. The AGV is expected to detect intersections, obstacles, and widget locations and indicate their detection through some display medium. It must also slow down in lanes A and B, check for dynamic obstacles, and calculate and display the distance traveled from the pickup and drop-off locations. Infrared and Ultrasonic sensors were used to implement the requirements and all these tasks were run on the propeller microcontroller. The AGV was able to perform all the required tasks and used an RGB LED to indicate various criteria with different colors and display the distance covered between the pickup and drop-off locations towards the end.
+
+![image](https://github.com/Kelvin4915/Factory_automation_Propeller/assets/134540002/dc7f5bb2-ee3f-43a7-aed9-4eccc7e68c03)
